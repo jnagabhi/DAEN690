@@ -1,5 +1,7 @@
 # DAEN690
 DAEN 690 Repository for Spring 2025 - GMU
+TEAM A
+
 PROBLEM DESCRIPTION
 
 Over the past decade, private and public organizations have increasingly sought to implement Artificial Intelligence (AI) to improve efficiency and reduce costs. However, according to Ryseff, De Bruhl, and Newberry (2024), approximately 80% of AI projects fail. High failure rates can cost organizations millions of dollars or even result in their closure. Organizations may minimize the risk of failure by implementing the Multi-Dimensional Algorithm Structure (MAS), thus saving valuable resources.
@@ -15,3 +17,11 @@ PROJECT GOALS
 4. Identify if MAS could reduce failure rates and if there are any situations where MAS succeeds or fails.
 
 5. Develop a risk rating using a partner-supplied method or a team-developed method.
+
+
+Team Members: 
+hchandup - Product Owner
+sgarnep - Scrum Master
+kkalva - Developer
+jnagabhi - Developer
+ashaik26 - Developer
