@@ -25,3 +25,4 @@ sgarnep - Scrum Master
 kkalva - Developer
 jnagabhi - Developer
 ashaik26 - Developer
+svalugun - Developer
