@@ -2,21 +2,81 @@
 DAEN 690 Repository for Spring 2025 - GMU
 TEAM A
 
-PROBLEM DESCRIPTION
+# 🤖 AI Project Risk Reduction
 
-Over the past decade, private and public organizations have increasingly sought to implement Artificial Intelligence (AI) to improve efficiency and reduce costs. However, according to Ryseff, De Bruhl, and Newberry (2024), approximately 80% of AI projects fail. High failure rates can cost organizations millions of dollars or even result in their closure. Organizations may minimize the risk of failure by implementing the Multi-Dimensional Algorithm Structure (MAS), thus saving valuable resources.
+## 📌 Problem Context
 
-PROJECT GOALS
+Artificial Intelligence (AI) is rapidly transforming industries such as healthcare, finance, and retail. Despite advancements in powerful, domain-specific models, many organizations continue to struggle with real-world AI adoption. The failure to align AI solutions with practical applications results in underperformance, financial loss, and reduced stakeholder trust.
 
-1. Using web scraping/data mining/NLP, develop a database of AI project successes/failures by North American Industrial Classification System (NAICS) code.
+---
 
-2. Develop models to compare organizational outcomes when MAS is used and when MAS is not used, by case (identified via web scraping/data mining), and by NAICS code.
+## 🎯 Project Objectives
 
-3. Provide cost estimations of MAS use versus not using MAS.
+This project aims to:
+- Investigate root causes of AI project failure.
+- Perform model evaluation.
+- Recommend optimized models based on MAS attributes, semantic similarity, and risk scores.
+- Visualize project risk and recommendation insights using a dashboard for AI project managers to make data-driven decisions.
 
-4. Identify if MAS could reduce failure rates and if there are any situations where MAS succeeds or fails.
+---
 
-5. Develop a risk rating using a partner-supplied method or a team-developed method.
+## 🧠 Key Features
+
+- **Data Synthesis**: Augments sparse records using CTGAN to support better model mapping.
+- **MAS Scoring Framework**: Evaluates original models using normalized attributes like:
+  - Algorithm Function (AF)
+  - Human-in-the-loop (HIL)
+  - Data Quality (DQ)
+  - Data Type (DT)
+  - Data Format (DF)
+  - Infrastructure Availability (INF)
+    
+- **Model Recommender System**: Recommends top 3 ML models using:
+  - Jaccard Similarity
+  - Semantic Boosting via TF-IDF & Cosine Similarity
+- **Risk Scoring**: Uses a 7-point Likert scale to compare baseline and improved risk profiles.
+- **Interactive Dashboard**: Built with **Amazon QuickSight** to display:
+  - Key Performance Indicators (KPIs)
+  - Outcome distribution
+  - Average risk score reduction
+  - Individual project risk differences
+
+---
+
+
+## 🧪 How the ML Model Recommendation System Works
+
+1. **User Input**: The user selects an AI category and a specific AI project.
+2. **MAS Evaluation**: The system scores the original project using MAS attributes.
+3. **Similarity Matching**:
+   - **Jaccard Similarity**: Matches project attributes to catalog models.
+   - **TF-IDF with Cosine Similarity**: Boosts semantic relevance.
+4. **Model Recommendation**:
+   - The top 3 ML models are ranked based on similarity , semantic boosting and risk score.
+5. **Dashboard Display**:
+   - Visual insights on project outcomes and recommended model performance.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python** (Pandas, NumPy, Scikit-learn)
+- **CTGAN** (Conditional Tabular GAN for synthetic data)
+- **Streamlit** (Interactive UI)
+- **Amazon QuickSight** (Dashboard visualization)
+- **Jupyter Notebook** (Exploratory data analysis and development)
+
+---
+
+## 🚀 Future Enhancements
+
+- Integrate real-time data cost & volume analysis using AWS services.
+- Enable dynamic MAS attribute weighting in the dashboard.
+- Develop a time-series risk predictor for emerging AI projects.
+- Formalize data governance and model documentation standards.
+- Establish a model governance committee for audit trails and approvals.
+
+---
 
 
 Team Members: 
