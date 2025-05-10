@@ -1,0 +1,86 @@
+Project Name,Selected Models,HIL (Human-in-the-Loop),AF (Algorithm Function),DT (Data Type),DF (Data Format),DQ (Data Quality),INF (Infrastructure),Scope,Compliance Cost,Daily Data Volume (GB),Cost_Likert_1to7,Estimated_Cost_USD,New Risk
+IBM Watson for Oncology,Conditional Random Field (CRF)+A3C (Asynchronous Advantage Actor-Critic)+Random Forest,auto+indirect,predictive,numeric+textual,semi-structured,semi-stable,high,Global,Very-High,0.5,3,7077000,3.15
+Meta Celebrity AI Chatbots,DQN (Deep Q-Network)+Transformer (Encoder-Decoder)+Generative Adversarial Network (GAN),auto+opaque,predictive,image,semi-structured,semi-stable,high,Department,Moderate,0.5,2,2430000,3.69
+McDonald's AI Drive-Thru,Autoencoder+Generative Adversarial Network (GAN)+Diffusion Model,auto,descriptive+predictive,image,semi-structured,semi-stable,high+medium,Enterprise,High,20,3,7946000,3.13
+Amazon AI Recruitment Tool,Naive Bayes'+Decision Tree+Bayesian Network,direct,assistive+predictive,image+numeric,semi-structured,semi-stable,low+medium,Proof of Concept,High,0.2,2,1666000,2.42
+Uber Self-Driving Car,DQN (Deep Q-Network)+Capsule Network+Generative Adversarial Network (GAN),auto+opaque,predictive,image,semi-structured,semi-stable,high,Multi-site-National,Very-High,4000,3,19307000,3.69
+Microsoft Tay Chatbot,DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Autoencoder,auto,descriptive+predictive,image,semi-structured,semi-stable,high+medium,Department,Moderate,0.2,2,2132000,3.13
+Google Duplex,Hidden Markov Model (HMM)+Convolutional Neural Network (CNN)+T5 (Text-to-Text Transfer Transformer),indirect+opaque,predictive,audio+image,semi-structured,semi-stable,high+medium,Department,Low,50,2,3376000,3.48
+Zillow Offers,Random Forest+Decision Tree+Autoencoder,auto+direct+indirect,descriptive+predictive,image+numeric,semi-structured,semi-stable,low+medium,Department,Moderate,1,2,2096000,2.46
+Grok AI Surveillance,Generative Adversarial Network (GAN)+Neural Radiance Fields (NeRF)+DQN (Deep Q-Network),auto,descriptive+predictive,image,semi-structured,semi-stable,high,Proof of Concept,Very-High,0.5,2,3376000,3.31
+AI in Energy (GCC),Autoencoder+Gaussian Mixture Model (GMM)+One-Class SVM,auto+indirect+opaque,descriptive,image+numeric,semi-structured,semi-stable,medium,Global,Moderate,1,3,5623000,2.53
+Apple Maps (2012),Autoencoder+PPO (Proximal Policy Optimization)+MuZero,auto,descriptive+predictive,image+numeric+textual,semi-structured,semi-stable,high+medium,Enterprise,Low,40,2,3096000,3.01
+JPMorgan COIN,Bayesian Network+Random Forest+Decision Tree,direct+indirect,assistive+predictive,numeric,semi-structured,semi-stable,low+medium,Department,High,0.2,2,1808000,2.39
+Google Flu Trends,Decision Tree+k-Nearest Neighbors (k-NN)+Linear Regression,direct+indirect,predictive,numeric,semi-structured,semi-stable,low,Proof of Concept,Very-High,0.5,2,2061000,2.36
+Clearview AI,DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Proof of Concept,Very-High,250,3,7197000,3.6
+Facebook Trending Algorithm,Generative Adversarial Network (GAN)+DQN (Deep Q-Network)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Department,Moderate,0.5,2,2430000,3.6
+Tesla Autopilot,DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Department,Very-High,4000,3,10000000,3.6
+NYC MyCity Chatbot (Ed),DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+GPT (Generative Pre-trained Transformer),auto+opaque,predictive,image,semi-structured,semi-stable,high,Proof of Concept,Very-High,0.5,2,3376000,3.69
+Air Canada Chatbot,DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Department,Moderate,0.2,2,2132000,3.6
+ChatGPT Legal Brief,DQN (Deep Q-Network)+GPT (Generative Pre-trained Transformer)+Generative Adversarial Network (GAN),auto+opaque,predictive,image,semi-structured,semi-stable,high,Proof of Concept,Moderate,0.5,2,1749000,3.69
+Oracle AI Recruitment Tool,Naive Bayes'+DBSCAN+Bayesian Network,direct+indirect,assistive+descriptive+predictive,image+numeric,semi-structured,semi-stable,low+medium,Proof of Concept,High,0.2,2,1666000,2.37
+GM Cruise Robotaxi,DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Multi-site-National,Very-High,4000,3,19307000,3.6
+Forward (AI CarePods),Autoencoder+Gaussian Mixture Model (GMM)+Random Forest,auto+indirect,descriptive+predictive,image+numeric,semi-structured,semi-stable,medium,Enterprise,Very-High,1,3,5623000,2.73
+LAUSD 'Ed' Chatbot,Neural Radiance Fields (NeRF)+Gaussian Mixture Model (GMM)+AdaBoost,auto+indirect+opaque,descriptive+predictive,image+numeric,semi-structured,semi-stable,high+medium,Department,Moderate,0.2,2,1666000,3.01
+Voiceverse NFT (15.ai),Hidden Markov Model (HMM)+T5 (Text-to-Text Transfer Transformer)+Diffusion Model,auto+indirect+opaque,predictive,audio+image,semi-structured,semi-stable,high+medium,Department,Low,20,2,2962000,3.48
+Stability AI (Stable Diffusion),Diffusion Model+Neural Radiance Fields (NeRF)+Variational Autoencoder (VAE),auto,descriptive+predictive,image,semi-structured,semi-stable,high,Proof of Concept,Low,250,2,2683000,3.31
+Innodata 'GoldenGate',GPT (Generative Pre-trained Transformer)+Neural Radiance Fields (NeRF)+Perceiver IO,auto+opaque,descriptive+predictive,image,semi-structured,semi-stable,high,Department,Moderate,0.2,2,2132000,3.4
+Evolv Express Scanner,Gaussian Mixture Model (GMM)+Random Forest+Principal Component Analysis (PCA),indirect,descriptive+predictive,numeric,semi-structured,semi-stable,medium,Enterprise,Moderate,1,2,2276000,2.52
+Oddity AI (Beauty Matching),DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Multi-site-National,Low,100,3,7197000,3.6
+Telus AI Data Solutions,Naive Bayes'+Gaussian Mixture Model (GMM)+DBSCAN,direct+indirect,descriptive+predictive,image+numeric,semi-structured,semi-stable,low+medium,Department,Moderate,0.2,2,1666000,2.37
+Apple Siri Assistant,Autoencoder+Decision Tree+Multilayer Perceptron (MLP),auto+direct+opaque,descriptive+predictive,image+numeric,semi-structured,semi-stable,low+medium,Department,Low,20,2,2314000,2.58
+Amazon Alexa (Election Q&A),DQN (Deep Q-Network)+Autoencoder+Generative Adversarial Network (GAN),auto,descriptive+predictive,image,semi-structured,semi-stable,high+medium,Proof of Concept,Moderate,0.2,2,1534000,3.13
+Uber Self-Driving Car Crash,Convolutional Neural Network (CNN)+DQN (Deep Q-Network)+Generative Adversarial Network (GAN),auto+opaque,predictive,image,semi-structured,semi-stable,high,Department,Very-High,250,3,10000000,3.69
+Google Image Search (bias),Generative Adversarial Network (GAN)+DQN (Deep Q-Network)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Multi-site-National,Low,250,3,7197000,3.6
+Japan Fifth Gen Project,Bayesian Network+Linear Regression+ARIMA,direct,assistive+predictive,numeric,semi-structured,semi-stable,low+medium,Proof of Concept,Very-High,0.5,2,2061000,2.3
+GE Predix Platform,Gaussian Mixture Model (GMM)+Principal Component Analysis (PCA)+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low+medium,Enterprise,Moderate,1,2,2276000,2.05
+iTutorGroup Hiring Algo,Naive Bayes'+Decision Tree+k-Nearest Neighbors (k-NN),direct+indirect,predictive,image+numeric,semi-structured,semi-stable,low,Proof of Concept,High,0.1,2,1509000,2.48
+Sports Illustrated AI Articles,DQN (Deep Q-Network)+GPT (Generative Pre-trained Transformer)+Generative Adversarial Network (GAN),auto+opaque,predictive,image,semi-structured,semi-stable,high,Proof of Concept,Moderate,0.5,2,1749000,3.69
+COMPAS Recidivism Algorithm,Logistic Regression+Decision Tree+Linear Regression,direct,predictive,numeric,semi-structured,semi-stable,low,Enterprise,Moderate,0.5,2,2061000,2.27
+Allegheny Child Welfare Tool,Gaussian Mixture Model (GMM)+Principal Component Analysis (PCA)+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low+medium,Enterprise,Very-High,1,2,4394000,2.05
+Google Photos Tagging (Gorillas),Neural Radiance Fields (NeRF)+Generative Adversarial Network (GAN)+DQN (Deep Q-Network),auto,descriptive+predictive,image,semi-structured,semi-stable,high,Multi-site-National,Low,250,3,7197000,3.31
+Microsoft Tay (duplicate),DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Autoencoder,auto,descriptive+predictive,image,semi-structured,semi-stable,high+medium,Department,Moderate,0.2,2,2132000,3.13
+Facebook Negotiation Chatbots,YOLO (You Only Look Once)+GPT (Generative Pre-trained Transformer)+Neural Radiance Fields (NeRF),auto+opaque,descriptive+predictive,image,semi-structured,semi-stable,high+medium,Proof of Concept,Moderate,0.2,2,1534000,3.22
+IBM Watson Retail Recs.,Naive Bayes'+Gaussian Mixture Model (GMM)+Autoencoder,auto+direct+indirect,descriptive+predictive,image+numeric,semi-structured,semi-stable,low+medium,Department,Moderate,1.2,2,2151000,2.46
+Facebook M (Virtual Asst.),Bayesian Network+Logistic Regression+Linear Regression,direct,assistive+predictive,numeric,semi-structured,semi-stable,low+medium,Department,Moderate,0.2,2,1301000,2.3
+Microsoft Cortana,Hidden Markov Model (HMM)+Neural Radiance Fields (NeRF)+Autoencoder,auto+indirect,descriptive+predictive,audio+image,semi-structured,semi-stable,high+medium,Department,Low,20,2,2962000,3.09
+Apple Face ID,One-Class SVM+Linear Regression+Random Forest,direct+indirect+opaque,descriptive+predictive,numeric,semi-structured,semi-stable,low+medium,Multi-site-National,Very-High,250,3,11788000,2.4
+Amazon Prime Air,DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Diffusion Model,auto,predictive,image,semi-structured,semi-stable,high,Proof of Concept,Low,350,2,2683000,3.6
+Lowe's Virtual Assistant,MuZero+Naive Bayes'+k-Means Clustering,auto+direct+indirect,descriptive+predictive,image+numeric+textual,semi-structured,semi-stable,high+low,Enterprise,Moderate,0.1,2,1828000,2.64
+Bank of America 'Erica',Decision Tree+Principal Component Analysis (PCA)+Bayesian Network,direct+indirect,assistive+descriptive+predictive,numeric,semi-structured,semi-stable,low+medium,Enterprise,High,1.2,2,3246000,2.25
+Samsung Bixby,Hidden Markov Model (HMM)+Autoencoder+Neural Radiance Fields (NeRF),auto+indirect,descriptive+predictive,audio+image,semi-structured,semi-stable,high+medium,Department,Low,20,2,2962000,3.09
+Spotify Recommender Engine,Linear Regression+ARIMA+Principal Component Analysis (PCA),direct+indirect,descriptive+predictive,numeric,semi-structured,semi-stable,low+medium,Enterprise,Moderate,52.5,2,4008000,2.25
+IBM Watson Assistant,Random Forest+One-Class SVM+k-Means Clustering,indirect+opaque,descriptive+predictive,numeric,semi-structured,semi-stable,low+medium,Enterprise,Moderate,0.2,2,1808000,2.53
+Adobe Sensei Auto-Tagging,Autoencoder+Gaussian Mixture Model (GMM)+DBSCAN,auto+indirect,descriptive,image+numeric,semi-structured,semi-stable,medium,Department,Low,100,2,2913000,2.44
+Amazon Echo Look,DQN (Deep Q-Network)+Generative Adversarial Network (GAN)+Autoencoder,auto,descriptive+predictive,image,semi-structured,semi-stable,high+medium,Department,Low,100,2,3728000,3.13
+Twitter Content Mod. AI,Gaussian Mixture Model (GMM)+Hidden Markov Model (HMM)+Autoencoder,auto+indirect,descriptive+predictive,audio+image+numeric,semi-structured,semi-stable,medium,Proof of Concept,Moderate,0.2,2,1301000,2.81
+General Electric (GE),k-Means Clustering+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low,Department,High,1,2,2276000,1.87
+BMW Manufacturing AI,YOLO (You Only Look Once)+Neural Radiance Fields (NeRF)+Hidden Markov Model (HMM),auto+indirect+opaque,descriptive+predictive,audio+image,semi-structured,semi-stable,high+medium,Department,Low,100,2,3728000,3.19
+Siemens Supply Chain AI,Gaussian Mixture Model (GMM)+ARIMA+Linear Regression,direct+indirect,descriptive+predictive,numeric,semi-structured,semi-stable,low+medium,Department,Moderate,1,2,1638000,2.25
+Airbus AI Design,k-Means Clustering+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low,Department,Moderate,2.5,2,1867000,1.87
+Caterpillar,k-Means Clustering+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low,Department,Moderate,1,2,1638000,1.87
+Ford,Gaussian Mixture Model (GMM)+DBSCAN+Principal Component Analysis (PCA),indirect,descriptive,image+numeric,semi-structured,semi-stable,medium,Department,Moderate,1.2,2,2151000,2.35
+Boeing,k-Means Clustering+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low,Department,Moderate,2.5,2,1867000,1.87
+EthonAI,Gaussian Mixture Model (GMM)+DBSCAN+Hidden Markov Model (HMM),indirect,descriptive+predictive,audio+image+numeric,semi-structured,semi-stable,medium,Proof of Concept,Moderate,101,2,3162000,2.72
+Nanotronics,YOLO (You Only Look Once)+Gaussian Mixture Model (GMM)+Hidden Markov Model (HMM),indirect+opaque,descriptive+predictive,audio+image+numeric,semi-structured,semi-stable,medium,Department,Low,100,2,3162000,2.91
+Redfin,k-Means Clustering+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low,Enterprise,Moderate,1,2,2276000,1.87
+Opendoor,Random Forest+Decision Tree+Autoencoder,auto+direct+indirect,descriptive+predictive,image+numeric,semi-structured,semi-stable,low+medium,Proof of Concept,Moderate,1,2,1509000,2.46
+Skyline AI,Gaussian Mixture Model (GMM)+k-Nearest Neighbors (k-NN)+Decision Tree,direct+indirect,descriptive+predictive,numeric,semi-structured,semi-stable,low+medium,Proof of Concept,High,1,2,1638000,2.25
+MagicBricks,Decision Tree+ARIMA+Linear Regression,direct,predictive,numeric,semi-structured,semi-stable,low,Proof of Concept,High,1.2,2,1681000,2.27
+REX Real Estate,Gaussian Mixture Model (GMM)+Principal Component Analysis (PCA)+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low+medium,Enterprise,Moderate,1,2,2276000,2.05
+Neara,Random Forest+Logistic Regression+k-Nearest Neighbors (k-NN),direct+indirect,predictive,numeric,semi-structured,semi-stable,low+medium,Multi-site-National,Low,100,2,4394000,2.54
+Avangrid,Gaussian Mixture Model (GMM)+Principal Component Analysis (PCA)+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low+medium,Department,Very-High,1,2,3162000,2.05
+AES Corporation,k-Means Clustering+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low,Department,Moderate,1,2,1638000,1.87
+Verdigris Technologies,Isolation Forest+k-Means Clustering+Linear Regression,direct+indirect,descriptive+predictive,numeric,semi-structured,semi-stable,low,Department,Moderate,1,2,1638000,2.07
+Enbridge,Gaussian Mixture Model (GMM)+Isolation Forest+Principal Component Analysis (PCA),indirect,descriptive,numeric,semi-structured,semi-stable,low+medium,Department,Moderate,1,2,1638000,2.05
+Vistra Corp.,Isolation Forest+k-Means Clustering+ARIMA,direct+indirect,descriptive+predictive,numeric,semi-structured,semi-stable,low,Department,Moderate,1,2,1638000,2.07
+Leap,Gaussian Mixture Model (GMM)+Principal Component Analysis (PCA)+k-Nearest Neighbors (k-NN),indirect,descriptive+predictive,numeric,semi-structured,semi-stable,low+medium,Department,Moderate,1,2,1638000,2.34
+Duolingo,k-Means Clustering+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low,Department,Moderate,1,2,1638000,1.87
+Content Technologies Inc. (CTI),DQN (Deep Q-Network)+Google AutoML+Autoencoder,auto,automation+descriptive+predictive,image,semi-structured,semi-stable,high+medium,Proof of Concept,Moderate,0.2,2,1534000,3.32
+Squirrel AI,Gaussian Mixture Model (GMM)+Principal Component Analysis (PCA)+Isolation Forest,indirect,descriptive,numeric,semi-structured,semi-stable,low+medium,Proof of Concept,Moderate,1,2,1179000,2.05
+Gradescope,Autoencoder+Gaussian Mixture Model (GMM)+Neural Radiance Fields (NeRF),auto+indirect,descriptive,image+numeric,semi-structured,semi-stable,high+medium,Proof of Concept,Low,100,2,2096000,2.62
+AltSchool,Isolation Forest+k-Means Clustering,indirect,descriptive,numeric,semi-structured,semi-stable,low,Proof of Concept,Moderate,1,2,1179000,1.87
+Knewton,Gaussian Mixture Model (GMM)+Isolation Forest+Principal Component Analysis (PCA),indirect,descriptive,numeric,semi-structured,semi-stable,low+medium,Enterprise,Moderate,1,2,2276000,2.05
+Jill Watson (Georgia Tech),Random Forest+Principal Component Analysis (PCA)+Gaussian Mixture Model (GMM),indirect,descriptive+predictive,numeric,semi-structured,semi-stable,medium,Proof of Concept,Moderate,0.2,1,937000,2.52
+IBM Watson Education,Isolation Forest+k-Means Clustering+Decision Tree,direct+indirect,descriptive+predictive,numeric,semi-structured,semi-stable,low,Department,Moderate,1,2,1638000,2.07
+,,,,,,,,,,,,,

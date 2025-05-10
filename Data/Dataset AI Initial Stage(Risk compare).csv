@@ -1,0 +1,85 @@
+Project Name,Original Risk Score (1-5),New Overall Risk Score (1-5),Risk Change
+IBM Watson for Oncology,3.07,3.15,0.08
+Meta Celebrity AI Chatbots,3.99,3.69,-0.3
+McDonald's AI Drive-Thru,4.33,3.13,-1.2
+Amazon AI Recruitment Tool,3.11,2.42,-0.69
+Uber Self-Driving Car,4.39,3.69,-0.7
+Microsoft Tay Chatbot,3.63,3.13,-0.5
+Google Duplex,4.07,3.48,-0.59
+Zillow Offers,3.2,2.46,-0.74
+Grok AI Surveillance,3.51,3.31,-0.2
+AI in Energy (GCC),3.05,2.53,-0.52
+Apple Maps (2012),3.63,3.01,-0.62
+JPMorgan COIN,2.96,2.39,-0.57
+Google Flu Trends,2.84,2.36,-0.48
+Clearview AI,3.61,3.6,-0.01
+Facebook Trending Algorithm,4.57,3.6,-0.97
+Tesla Autopilot,3.61,3.6,-0.01
+NYC MyCity Chatbot (Ed),3.99,3.69,-0.3
+Air Canada Chatbot,3.63,3.6,-0.03
+ChatGPT Legal Brief,3.99,3.69,-0.3
+Oracle AI Recruitment Tool,3.11,2.37,-0.74
+GM Cruise Robotaxi,4.57,3.6,-0.97
+Forward (AI CarePods),3.05,2.73,-0.32
+LAUSD 'Ed' Chatbot,3.19,3.01,-0.18
+Voiceverse NFT (15.ai),3.89,3.48,-0.41
+Stability AI (Stable Diffusion),3.55,3.31,-0.24
+Innodata 'GoldenGate',3.77,3.4,-0.37
+Evolv Express Scanner,3.2,2.52,-0.68
+Oddity AI (Beauty Matching),3.77,3.6,-0.17
+Telus AI Data Solutions,2.81,2.37,-0.44
+Apple Siri Assistant,2.87,2.58,-0.29
+Amazon Alexa (Election Q&A),3.63,3.13,-0.5
+Uber Self-Driving Car Crash,4.39,3.69,-0.7
+Google Image Search (bias),3.99,3.6,-0.39
+Japan Fifth Gen Project,3.21,2.3,-0.91
+GE Predix Platform,2.57,2.05,-0.52
+iTutorGroup Hiring Algo,3.32,2.48,-0.84
+Sports Illustrated AI Articles,3.99,3.69,-0.3
+COMPAS Recidivism Algorithm,2.4,2.27,-0.13
+Allegheny Child Welfare Tool,2.57,2.05,-0.52
+Google Photos Tagging (Gorillas),3.69,3.31,-0.38
+Microsoft Tay (duplicate),3.63,3.13,-0.5
+Facebook Negotiation Chatbots,3.77,3.22,-0.55
+IBM Watson Retail Recs.,3.12,2.46,-0.66
+Facebook M (Virtual Asst.),2.37,2.3,-0.07
+Microsoft Cortana,3.31,3.09,-0.22
+Apple Face ID,3.21,2.4,-0.81
+Amazon Prime Air,4.69,3.6,-1.09
+Lowe's Virtual Assistant,3.27,2.64,-0.63
+Bank of America 'Erica',2.39,2.25,-0.14
+Samsung Bixby,3.31,3.09,-0.22
+Spotify Recommender Engine,2.57,2.25,-0.32
+IBM Watson Assistant,2.75,2.53,-0.22
+Adobe Sensei Auto-Tagging,2.89,2.44,-0.45
+Amazon Echo Look,3.63,3.13,-0.5
+Twitter Content Mod. AI,3.44,2.81,-0.63
+General Electric (GE),2.13,1.87,-0.26
+BMW Manufacturing AI,3.59,3.19,-0.4
+Siemens Supply Chain AI,2.57,2.25,-0.32
+Airbus AI Design,2.2,1.87,-0.33
+Caterpillar,2.13,1.87,-0.26
+Ford,2.64,2.35,-0.29
+Boeing,2.2,1.87,-0.33
+EthonAI,3.47,2.72,-0.75
+Nanotronics,3.59,2.91,-0.68
+Redfin,2.03,1.87,-0.16
+Opendoor,3.2,2.46,-0.74
+Skyline AI,2.76,2.25,-0.51
+MagicBricks,2.15,2.27,0.12
+REX Real Estate,2.47,2.05,-0.42
+Neara,2.97,2.54,-0.43
+Avangrid,2.57,2.05,-0.52
+AES Corporation,2.13,1.87,-0.26
+Verdigris Technologies,2.43,2.07,-0.36
+Enbridge,2.57,2.05,-0.52
+Vistra Corp.,2.43,2.07,-0.36
+Leap,2.87,2.34,-0.53
+Duolingo,2.03,1.87,-0.16
+Content Technologies Inc. (CTI),4.21,3.32,-0.89
+Squirrel AI,2.47,2.05,-0.42
+Gradescope,3.25,2.62,-0.63
+AltSchool,2.28,1.87,-0.41
+Knewton,2.47,2.05,-0.42
+Jill Watson (Georgia Tech),2.56,2.52,-0.04
+IBM Watson Education,2.43,2.07,-0.36
